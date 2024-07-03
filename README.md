@@ -16,5 +16,5 @@ Software Developer.
 -->
 
 ### skills
-⚡  Javascript ⚡ ReactJs ⚡ Express ⚡ Mongo Db ⚡ Node Js
+⚡  Javascript ⚡ ReactJs ⚡ Express ⚡ Node Js ⚡ Nest Js ⚡ Typescript
 ⚡ Electron
