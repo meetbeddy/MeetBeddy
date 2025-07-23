@@ -42,4 +42,4 @@ I’m always open to collaborating on **full-stack projects**, especially those 
 ---
 
 ### ⚡ Fun Fact
-I love solving complex coding challenges and tweaking UI designs to perfection. Outside coding, I'm a huge fan of spy novels and soccer!
+I love solving complex coding challenges and tweaking UI designs to perfection. Outside coding, I'm a huge fan of spy novels and football!
